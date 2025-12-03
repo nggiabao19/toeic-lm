@@ -1,0 +1,407 @@
+[
+    {
+        "topic": "Subject-Verb Agreement",
+        "question": "The team of experts _____ attending the conference next week.",
+        "question_vi": "Nhóm chuyên gia _____ tham dự hội nghị vào tuần tới.",
+        "options": {
+            "A": "is",
+            "B": "are",
+            "C": "were",
+            "D": "be"
+        },
+        "options_vi": {
+            "A": "là",
+            "B": "là",
+            "C": "đã",
+            "D": "thì"
+        },
+        "correct_answer": "A",
+        "analysis": {
+            "correct_explanation": "Đáp án A 'is' đúng vì chủ ngữ 'The team' được coi như một đơn vị, do đó động từ cũng phải ở dạng số ít.",
+            "wrong_analysis": "B sai vì 'are' dùng cho số nhiều, C sai vì 'were' là quá khứ, D sai vì 'be' không phải dạng động từ đúng trong ngữ cảnh này.",
+            "grammar_structure": {
+                "phrase": "'The team of + plural noun'",
+                "usage": "'The team' được coi là một đơn vị, vì vậy động từ theo sau cần phải ở dạng số ít."
+            }
+        },
+        "tutor_comment": "Coi chừng nhầm giữa số ít và số nhiều nha, chỉ cần nhớ nhóm là một đội thôi!"
+    },
+    {
+        "topic": "Subject-Verb Agreement",
+        "question": "Neither of the solutions _____ suitable for our needs.",
+        "question_vi": "Không một giải pháp nào _____ phù hợp với nhu cầu của chúng ta.",
+        "options": {
+            "A": "is",
+            "B": "are",
+            "C": "was",
+            "D": "be"
+        },
+        "options_vi": {
+            "A": "là",
+            "B": "là",
+            "C": "đã",
+            "D": "thì"
+        },
+        "correct_answer": "A",
+        "analysis": {
+            "correct_explanation": "Đáp án A 'is' đúng vì 'neither' luôn theo sau với động từ số ít.",
+            "wrong_analysis": "B sai vì 'are' là số nhiều, C sai vì 'was' là quá khứ, D sai vì 'be' không phải dạng chính xác trong trường hợp này.",
+            "grammar_structure": {
+                "phrase": "'Neither of + plural noun'",
+                "usage": "'Neither of' luôn đi với động từ số ít, cho dù danh từ theo sau là số nhiều."
+            }
+        },
+        "tutor_comment": "Nhớ nha, 'neither' luôn luôn đi với số ít, không có ngoại lệ đâu!"
+    },
+    {
+        "topic": "Subject-Verb Agreement",
+        "question": "Each of the participants _____ required to submit their report by Friday.",
+        "question_vi": "Mỗi người tham gia _____ cần nộp báo cáo của họ trước thứ Sáu.",
+        "options": {
+            "A": "is",
+            "B": "are",
+            "C": "was",
+            "D": "be"
+        },
+        "options_vi": {
+            "A": "là",
+            "B": "là",
+            "C": "đã",
+            "D": "thì"
+        },
+        "correct_answer": "A",
+        "analysis": {
+            "correct_explanation": "Đáp án A 'is' đúng vì 'each' luôn luôn đi với động từ số ít.",
+            "wrong_analysis": "B sai vì 'are' không phù hợp với ngữ cảnh số ít, C sai vì 'was' là quá khứ, D sai vì 'be' không đúng ngữ pháp ở đây.",
+            "grammar_structure": {
+                "phrase": "'Each of + plural noun'",
+                "usage": "'Each' đòi hỏi động từ phải ở dạng số ít, thể hiện mỗi cá nhân trong nhóm."
+            }
+        },
+        "tutor_comment": "Coi chừng lạc lối nha, 'each' không bao giờ đi với số nhiều đâu!"
+    },
+    {
+        "topic": "Subject-Verb Agreement",
+        "question": "A number of students _____ planning to attend the workshop.",
+        "question_vi": "Một số sinh viên _____ dự định tham dự hội thảo.",
+        "options": {
+            "A": "are",
+            "B": "is",
+            "C": "was",
+            "D": "be"
+        },
+        "options_vi": {
+            "A": "là",
+            "B": "là",
+            "C": "đã",
+            "D": "thì"
+        },
+        "correct_answer": "A",
+        "analysis": {
+            "correct_explanation": "Đáp án A 'are' đúng vì 'a number of' luôn đi với động từ số nhiều.",
+            "wrong_analysis": "B sai vì đây là số nhiều, C sai vì 'was' không hợp lý, D sai vì 'be' không phải dạng động từ phù hợp.",
+            "grammar_structure": {
+                "phrase": "'A number of + plural noun'",
+                "usage": "'A number of' chỉ một nhóm, vì vậy động từ phải ở dạng số nhiều."
+            }
+        },
+        "tutor_comment": "Nhớ kỹ nha, 'a number of' là số nhiều, không bao giờ đi với số ít đâu nhé!"
+    },
+    {
+        "topic": "Subject-Verb Agreement",
+        "question": "The committee _____ making its final decision next week.",
+        "question_vi": "Ủy ban _____ đưa ra quyết định cuối cùng của mình vào tuần tới.",
+        "options": {
+            "A": "is",
+            "B": "are",
+            "C": "were",
+            "D": "be"
+        },
+        "options_vi": {
+            "A": "là",
+            "B": "là",
+            "C": "đã",
+            "D": "thì"
+        },
+        "correct_answer": "A",
+        "analysis": {
+            "correct_explanation": "Đáp án A 'is' đúng vì 'the committee' được coi như một đơn vị, nên động từ theo sau là số ít.",
+            "wrong_analysis": "B sai vì 'are' là sai cho số ít, C sai vì 'were' quá khứ không phù hợp ở đây, D sai vì 'be' không sử dụng được trong cấu trúc này.",
+            "grammar_structure": {
+                "phrase": "'The committee + singular verb'",
+                "usage": "'The committee' dùng động từ số ít vì nó được xem như một đơn vị."
+            }
+        },
+        "tutor_comment": "Luôn nhớ xem chủ ngữ là gì để chọn động từ đúng nhé, ai bảo ủy ban không phải là một nhóm!"
+    },
+    {
+        "topic": "Subject-Verb Agreement",
+        "question": "The team of researchers ____ working on a new project.",
+        "question_vi": "Nhóm các nhà nghiên cứu ____ làm việc trên một dự án mới.",
+        "options": {
+            "A": "is",
+            "B": "are",
+            "C": "were",
+            "D": "be"
+        },
+        "options_vi": {
+            "A": "đang",
+            "B": "các",
+            "C": "đã",
+            "D": "bị"
+        },
+        "correct_answer": "A",
+        "analysis": {
+            "correct_explanation": "Đáp án A 'is' đúng vì 'team' là danh từ số ít, do đó động từ cũng phải là số ít.",
+            "wrong_analysis": "B sai vì dùng 'are' nhưng 'team' là số ít. C sai vì thì quá khứ không phù hợp với ngữ cảnh. D sai vì 'be' không phù hợp ngữ pháp trong câu này.",
+            "grammar_structure": {
+                "phrase": "'the team of + plural noun'",
+                "usage": "'the team' được coi là một thực thể duy nhất, nên sử dụng động từ số ít."
+            }
+        },
+        "tutor_comment": "Coi chừng bị lừa bởi những danh từ như 'team', kêu nó là số nhiều nhưng thật ra lại số ít nha!"
+    },
+    {
+        "topic": "Subject-Verb Agreement",
+        "question": "Neither the manager nor the employees ____ aware of the changes.",
+        "question_vi": "Cả người quản lý lẫn các nhân viên ____ không biết về những thay đổi.",
+        "options": {
+            "A": "is",
+            "B": "are",
+            "C": "was",
+            "D": "were"
+        },
+        "options_vi": {
+            "A": "đang",
+            "B": "các",
+            "C": "đã",
+            "D": "đã"
+        },
+        "correct_answer": "A",
+        "analysis": {
+            "correct_explanation": "Đáp án A 'is' đúng vì khi hai chủ ngữ nối với nhau bằng 'neither...nor', động từ sẽ theo chủ ngữ gần nhất, ở đây là 'employees' số ít.",
+            "wrong_analysis": "B sai vì 'are' không đúng với 'neither...nor'. C và D sai vì thì quá khứ không phù hợp với ngữ cảnh hiện tại.",
+            "grammar_structure": {
+                "phrase": "'neither...nor'",
+                "usage": "'neither...nor' thường dùng để biểu thị sự đồng nhất và động từ sẽ theo chủ ngữ gần nhất."
+            }
+        },
+        "tutor_comment": "Coi chừng bị đánh lừa bởi 'neither...nor', nhớ xem xem cái nào gần nhất nhá!"
+    },
+    {
+        "topic": "Subject-Verb Agreement",
+        "question": "The list of items ____ on the table.",
+        "question_vi": "Danh sách các mặt hàng ____ trên bàn.",
+        "options": {
+            "A": "is",
+            "B": "are",
+            "C": "were",
+            "D": "be"
+        },
+        "options_vi": {
+            "A": "đang",
+            "B": "các",
+            "C": "đã",
+            "D": "bị"
+        },
+        "correct_answer": "A",
+        "analysis": {
+            "correct_explanation": "Đáp án A 'is' đúng vì 'list' là danh từ số ít, do đó động từ cũng phải là số ít.",
+            "wrong_analysis": "B sai vì 'are' không phù hợp với chủ ngữ số ít. C và D sai vì không đúng thì trong ngữ cảnh.",
+            "grammar_structure": {
+                "phrase": "'the list of + plural noun'",
+                "usage": "'the list' là số ít và phải đi với động từ số ít."
+            }
+        },
+        "tutor_comment": "Danh sách thì luôn luôn là số ít, coi chừng không bị lừa bởi những món hàng bên trong nhé!"
+    },
+    {
+        "topic": "Subject-Verb Agreement",
+        "question": "Either the cat or the dogs ____ causing trouble in the neighborhood.",
+        "question_vi": "Hoặc con mèo hoặc những con chó ____ gây rối trong khu phố.",
+        "options": {
+            "A": "is",
+            "B": "are",
+            "C": "was",
+            "D": "were"
+        },
+        "options_vi": {
+            "A": "đang",
+            "B": "các",
+            "C": "đã",
+            "D": "đã"
+        },
+        "correct_answer": "B",
+        "analysis": {
+            "correct_explanation": "Đáp án B 'are' đúng vì 'dogs' là chủ ngữ gần nhất và là danh từ số nhiều.",
+            "wrong_analysis": "A sai vì 'is' không đúng với chủ ngữ số nhiều gần nhất, C và D sai vì không phù hợp với ngữ cảnh hiện tại.",
+            "grammar_structure": {
+                "phrase": "'either...or'",
+                "usage": "'either...or' được dùng để nối hai chủ ngữ, và động từ sẽ đi theo chủ ngữ gần nhất."
+            }
+        },
+        "tutor_comment": "Chú ý nhé! 'either...or' là cái bẫy, để ý xem cái nào gần nhất nhé!"
+    },
+    {
+        "topic": "Subject-Verb Agreement",
+        "question": "A number of students ____ interested in this new program.",
+        "question_vi": "Một số sinh viên ____ quan tâm đến chương trình mới này.",
+        "options": {
+            "A": "is",
+            "B": "are",
+            "C": "was",
+            "D": "were"
+        },
+        "options_vi": {
+            "A": "đang",
+            "B": "các",
+            "C": "đã",
+            "D": "đã"
+        },
+        "correct_answer": "B",
+        "analysis": {
+            "correct_explanation": "Đáp án B 'are' đúng vì 'a number of' luôn đi với động từ số nhiều.",
+            "wrong_analysis": "A sai vì 'is' không phù hợp với số nhiều. C và D sai vì không đúng thì trong ngữ cảnh hiện tại.",
+            "grammar_structure": {
+                "phrase": "'a number of + plural noun'",
+                "usage": "'a number of' có nghĩa là 'nhiều' và luôn đi với động từ số nhiều."
+            }
+        },
+        "tutor_comment": "Coi chừng bị lừa bởi 'a number of', luôn phải dùng với động từ số nhiều nha!"
+    },
+    {
+        "topic": "Subject-Verb Agreement",
+        "question": "Each of the students _____ responsible for their own project.",
+        "question_vi": "Mỗi sinh viên _____ chịu trách nhiệm cho dự án của riêng họ.",
+        "options": {
+            "A": "is",
+            "B": "are",
+            "C": "were",
+            "D": "be"
+        },
+        "options_vi": {
+            "A": "là",
+            "B": "là",
+            "C": "đã",
+            "D": "thì"
+        },
+        "correct_answer": "A",
+        "analysis": {
+            "correct_explanation": "Đáp án A 'is' là đúng vì 'each' là chủ ngữ số ít, nên động từ cũng phải ở dạng số ít.",
+            "wrong_analysis": "B sai vì 'are' là số nhiều, C sai vì thì quá khứ không phù hợp, D sai vì 'be' không phải dạng động từ thích hợp ở đây.",
+            "grammar_structure": {
+                "phrase": "each of + plural noun",
+                "usage": "'each of' được dùng để nhấn mạnh rằng mỗi phần tử của nhóm phải đi kèm với động từ số ít."
+            }
+        },
+        "tutor_comment": "Coi chừng bị lừa bởi 'each', nhớ là số ít nhé! 😉"
+    },
+    {
+        "topic": "Subject-Verb Agreement",
+        "question": "The committee _____ to finalize the report by next week.",
+        "question_vi": "Ủy ban _____ hoàn tất báo cáo trước tuần tới.",
+        "options": {
+            "A": "plans",
+            "B": "plan",
+            "C": "is planning",
+            "D": "have planned"
+        },
+        "options_vi": {
+            "A": "có kế hoạch",
+            "B": "kế hoạch",
+            "C": "đang lập kế hoạch",
+            "D": "đã lập kế hoạch"
+        },
+        "correct_answer": "B",
+        "analysis": {
+            "correct_explanation": "Đáp án B 'plan' là đúng vì 'committee' là một danh từ tập hợp nhưng được xem như số ít trong ngữ cảnh này.",
+            "wrong_analysis": "A sai vì ở dạng số nhiều, C sai vì động từ 'is planning' không phù hợp với ngữ cảnh tương lai, D sai vì 'have planned' không khớp với ngữ cảnh.",
+            "grammar_structure": {
+                "phrase": "a committee of + plural noun",
+                "usage": "Khi nói về một ủy ban, ta thường sử dụng động từ ở dạng số ít nếu coi nó như một thực thể duy nhất."
+            }
+        },
+        "tutor_comment": "Ủy ban chỉ là một, không nên quá đa dạng, nhớ nhé! 😄"
+    },
+    {
+        "topic": "Subject-Verb Agreement",
+        "question": "Neither of the answers _____ correct.",
+        "question_vi": "Không một đáp án nào _____ đúng.",
+        "options": {
+            "A": "is",
+            "B": "are",
+            "C": "was",
+            "D": "be"
+        },
+        "options_vi": {
+            "A": "là",
+            "B": "là",
+            "C": "đã",
+            "D": "thì"
+        },
+        "correct_answer": "A",
+        "analysis": {
+            "correct_explanation": "Đáp án A 'is' là đúng vì 'neither of' luôn đi với động từ số ít.",
+            "wrong_analysis": "B sai vì 'are' là số nhiều, C sai vì thì quá khứ không cần thiết, D sai vì 'be' không phải là dạng phù hợp.",
+            "grammar_structure": {
+                "phrase": "neither of + plural noun",
+                "usage": "'neither of' được dùng để diễn tả rằng không có lựa chọn nào trong số nhiều là đúng."
+            }
+        },
+        "tutor_comment": "Coi chừng! 'Neither' là số ít, không lạm dụng nhé! 😜"
+    },
+    {
+        "topic": "Subject-Verb Agreement",
+        "question": "The team of engineers _____ working on the new project.",
+        "question_vi": "Nhóm kỹ sư _____ làm việc trên dự án mới.",
+        "options": {
+            "A": "is",
+            "B": "are",
+            "C": "were",
+            "D": "be"
+        },
+        "options_vi": {
+            "A": "đang",
+            "B": "là",
+            "C": "đã",
+            "D": "thì"
+        },
+        "correct_answer": "A",
+        "analysis": {
+            "correct_explanation": "Đáp án A 'is' là đúng vì 'team' được coi là số ít trong câu này.",
+            "wrong_analysis": "B sai vì 'are' không phù hợp, C sai vì thì quá khứ không đúng, D sai vì 'be' không phải là động từ phù hợp trong ngữ cảnh.",
+            "grammar_structure": {
+                "phrase": "the team of + plural noun",
+                "usage": "Khi nói về nhóm, ta thường sử dụng động từ số ít như một thực thể duy nhất."
+            }
+        },
+        "tutor_comment": "Nhớ nhé! Nhóm là một, đừng phân tán tư tưởng! 😂"
+    },
+    {
+        "topic": "Subject-Verb Agreement",
+        "question": "A number of students _____ absent from class yesterday.",
+        "question_vi": "Một số sinh viên _____ vắng mặt trong lớp hôm qua.",
+        "options": {
+            "A": "were",
+            "B": "was",
+            "C": "is",
+            "D": "are"
+        },
+        "options_vi": {
+            "A": "đã",
+            "B": "là",
+            "C": "thì",
+            "D": "là"
+        },
+        "correct_answer": "A",
+        "analysis": {
+            "correct_explanation": "Đáp án A 'were' là đúng vì 'a number of' đi với động từ số nhiều.",
+            "wrong_analysis": "B sai vì 'was' là số ít, C sai vì hiện tại không phù hợp, D sai vì động từ ở hiện tại không đúng trong ngữ cảnh quá khứ.",
+            "grammar_structure": {
+                "phrase": "a number of + plural noun",
+                "usage": "'a number of' luôn đi với động từ số nhiều để diễn tả nhiều hơn một."
+            }
+        },
+        "tutor_comment": "Coi chừng, 'a number of' không phải là số ít đâu! 😅"
+    }
+]
