@@ -7,8 +7,8 @@
 ![Status](https://img.shields.io/badge/Status-Research_&_Development-yellow)
 
 ## Project Resources
-* **Fine-tuned Model (Hugging Face):** [https://huggingface.co/nggiabao19/toeic-lm-v0]
-* **Distilled Dataset (Hugging Face):** [https://huggingface.co/datasets/nggiabao19/toeic-tutor-v1]
+* **Fine-tuned Model:** [Hugging Face Model Link](https://huggingface.co/nggiabao19/toeic-lm-v0)
+* **Distilled Dataset (Hugging Face):** [Hugging Face Dataset Link](https://huggingface.co/datasets/nggiabao19/toeic-tutor-v1)
 
 ## 1. Project Overview
 TOEIC-LM is a specialized Large Language Model (LLM) project designed to function as a personalized AI tutor for Vietnamese students preparing for the TOEIC exam (Part 5).
@@ -70,6 +70,8 @@ The model demonstrates a strong ability to follow instructions and generate stru
     }
 }
 ```
+## Training Progress
+![Training Progress](./assets/training_loss.png)
 # 5. Repository Structure
 ``` bash
 toeic-lm/
