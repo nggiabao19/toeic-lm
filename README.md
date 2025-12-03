@@ -65,7 +65,7 @@ The model demonstrates a strong ability to follow instructions and generate stru
     "correct_answer": "B",
     "analysis": {
         "correct_explanation": "Chúng ta sử dụng 'who' như một đại từ quan hệ để thay thế danh từ chỉ người (The man) khi nó đóng vai trò là chủ ngữ.",
-        "wrong_analysis": "A sai vì "which" dùng cho vật. C sai vì "whom" dùng cho vật. D sai vì "whose" dùng cho sự sở hữu.",
+        "wrong_analysis": "A sai vì 'which' dùng cho vật. C sai vì 'whom' dùng cho vật. D sai vì 'whose' dùng cho sự sở hữu.",
         "tutor_comment": "Hãy nhớ, nếu từ này đề cập đến một người và đứng trước một động từ, hãy chọn ngay 'who'!"
     }
 }
@@ -85,7 +85,7 @@ To reproduce the training process:
 
 ## Clone the repository:
 ``` bash
-git clone 
+git clone https://github.com/nggiabao19/toeic-lm.git
 ```
 
 ## Install dependencies:
